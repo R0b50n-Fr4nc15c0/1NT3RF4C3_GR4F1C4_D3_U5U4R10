@@ -1,0 +1,16 @@
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\bin\Debug\net8.0-windows\Bomba.exe
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\bin\Debug\net8.0-windows\Bomba.deps.json
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\bin\Debug\net8.0-windows\Bomba.runtimeconfig.json
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\bin\Debug\net8.0-windows\Bomba.dll
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\bin\Debug\net8.0-windows\Bomba.pdb
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\Bomba.Form1.resources
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\Bomba.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\Bomba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\Bomba.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\Bomba.AssemblyInfo.cs
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\Bomba.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\Bomba.dll
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\refint\Bomba.dll
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\Bomba.pdb
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\Bomba.genruntimeconfig.cache
+C:\Users\aluno.cad\Documents\Robson\Bomba\Bomba\obj\Debug\net8.0-windows\ref\Bomba.dll
